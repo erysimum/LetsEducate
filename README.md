@@ -1,4 +1,4 @@
-# Upskill Platform
+# LetsEducate Platform
 
 Upskill is a project in making, where anybody can learn anything through videos.
 
